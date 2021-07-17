@@ -5,7 +5,7 @@ var userThreads = navigator.hardwareConcurrency;
 var username = "shruuubo";
 
 //the standerd rig ID, but if you specify your own in another script, it will you that one
-var rigid = "Duino-JS";
+var rigid = "shruub.ml";
 
 //sets the threads to 1, but if you specify your own in another script, it will use that one
 let threads = 1;
