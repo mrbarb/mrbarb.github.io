@@ -74,7 +74,7 @@ onmessage = function (event)
                     //shows the hashrate in the console
                     console.log("CPU" + workerVer + ": The hashrate is " + hashrate + " H/s. Sending the result back to the server...");
                     //sends the result to the server
-                    socket.send(result + "," + hashrate + ",Duino-JS v2.1 by Hoiboy19," + rigid)
+                    socket.send(result + "," + hashrate + ",Duino-JS but I yoinked it lol hi isi btw," + rigid)
                 }
             }
         }
