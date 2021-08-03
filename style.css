@@ -45,19 +45,32 @@ h2 {
   color:    #ffa500;
   font-family: sans-serif;
   font-size: 20px
-}h3 {
+}
+#para6 {
+  text-align: center;
+  color:    #0f0f0f;
+  font-family: sans-serif;
+  font-size: 20px
+}
+#para7 {
+  text-align: center;
+  color:    #ff8c00;
+  font-family: sans-serif;
+  font-size: 20px
+}
+h3 {
   color: white;
   text-align: center;
   font-family: verdana;
   font-size: 25px
 }
-#para6 {
+#para8 {
   text-align: center;
   color:   white;
   font-family: sans-serif;
   font-size: 20px
 }
-#para7 {
+#para9 {
   text-align: center;
   color:    white;
   font-family: sans-serif;
@@ -83,7 +96,7 @@ h2 {
     color: white;
     padding: 0.2em 0.4em;
 }
-#para8 {
+#para10 {
   text-align: center;
   color:    white;
   font-family: sans-serif;
