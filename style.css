@@ -2,8 +2,9 @@ html, body {
 width: 100%;
 height: 100%;
 background-image: linear-gradient(100deg,  #a4dded,  #ffb7c5);
+overflow-x: hidden ;
 }
-html{overflow-x: hidden ;}
+
 h1 {
   color: white;
   text-align: center;
