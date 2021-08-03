@@ -69,7 +69,7 @@ h2 {
     -o-appearance: button;
     -webkit-appearance: button;
     appearance: button;
-    text-decoration: none;
+    text-decoration: underline;
     color: white;
     padding: 0.2em 0.4em;
 }
@@ -79,7 +79,7 @@ h2 {
     -o-appearance: button;
     -webkit-appearance: button;
     appearance: button;
-    text-decoration: none;
+    text-decoration: underline;
     color: white;
     padding: 0.2em 0.4em;
 }
