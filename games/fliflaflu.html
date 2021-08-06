@@ -25,27 +25,27 @@ if( symbolComputer == symbolSpieler ){alert("Unentschieden");}
 
 if( symbolComputer == "Schere" && symbolSpieler == "Papier" ) {
 gewinneSpieler++;
-alert("Du gewinnst mit Schere");
+alert("Du gewinnst mit Schere gegen Papier");
 }
 
 if( symbolComputer == "Schere" && symbolSpieler == "Stein" ) {
 gewinneComputer++;
-alert("Computer gewinnt gegen mit Stein");
+alert("Computer gewinnt gegen mit Stein gegen Schere");
 }
 
 if( symbolComputer == "Stein" && symbolSpieler == "Papier" ) {
 gewinneSpieler++;
-alert("Du gewinnst gegen Stein");
+alert("Du gewinnst gegen Stein mit Papier");
 }
 
 if( symbolComputer == "Papier" && symbolSpieler == "Stein" ) {
 gewinneComputer++;
-alert("Computer gewinnt mit Papier");
+alert("Computer gewinnt mit Papier gegen Stein");
 }
 
 if( symbolComputer == "Papier" && symbolSpieler == "Schere" ) {
 gewinneSpieler++;
-alert("Du gewinnst gegen Papier");
+alert("Du gewinnst gegen Papier mit Schere");
 }
 anzahlRunden++;
 }
