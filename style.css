@@ -108,3 +108,18 @@ h3 {
   font-family: sans-serif;
   font-size: 10px
 }
+#tor {
+  color:    white;
+  font-family: sans-serif;
+  font-size: 15px
+}
+.buttonTor {
+    -moz-appearance: button;
+    -ms-appearance: button;
+    -o-appearance: button;
+    -webkit-appearance: button;
+    appearance: button;
+    text-decoration: underline;
+    color: white;
+    padding: 0.2em 0.4em;
+}
