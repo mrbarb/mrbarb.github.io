@@ -1,1 +1,1 @@
-My little Website, located at https://shruub.ml
+My little Website, located at https://shruubo.ml
