@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: EpoClassic-Lig
+font link: https://www.fontspring.com/fonts/hoftype/epocaclassic/epoca-classic-light
+font author: Hoftype
+font author site: http://www.hoftype.com/
+
+
+icon designer: Larisa Skosyrska
+icon designer link: /Lara.Skosyrska
+        
+{"bg-gradient-0":"#DE3837","bg-gradient-1":"#D2D4D6","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
