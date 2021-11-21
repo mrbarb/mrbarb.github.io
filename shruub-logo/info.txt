@@ -11,4 +11,5 @@ icon designer: Larisa Skosyrska
 icon designer link: /Lara.Skosyrska
         
 {"bg-gradient-0":"#DE3837","bg-gradient-1":"#D2D4D6","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+#kept for legal reasons btw
       

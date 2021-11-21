@@ -84,7 +84,7 @@ h3 {
   font-family: sans-serif;
   font-size: 20px
 }
-#end {
+.footer {
   color:    white;
   font-family: sans-serif;
   font-size: 10px
@@ -107,3 +107,20 @@ h3 {
 .links{
 	color: white;
 }
+.about-me{
+    margin-left: 5%;
+    margin-top: 3%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 95%;
+    background-color: rgba(197, 197, 197, .5);
+	border-radius: 80px;
+	text-align: center;
+}
+img.emoji {
+            height: 1em;
+            width: 1em;
+            margin: 0 .05em 0 .1em;
+            vertical-align: -0.1em;
+        }
