@@ -104,7 +104,7 @@ h3 {
     place-content: center;
     width: 90%;
     height: 103%;
-    background-color: rgba(197, 197, 197, .5);
+    background-color: rgba(190, 17, 17, .5);
     border-radius: 80px;
     text-align: center;
 }
@@ -115,7 +115,7 @@ h3 {
     place-content: center;
     width: 90%;
     height: 25%;
-    background-color: rgba(197, 197, 197, .5);
+    background-color: rgba(190, 17, 17, .5);
     border-radius: 80px;
     text-align: center;
 }
@@ -124,4 +124,24 @@ img.emoji {
             width: 1em;
             margin: 0 .05em 0 .1em;
             vertical-align: -0.1em;
+}
+
+/*i didnt know about media queries lol */
+@media (orientation: portrait){
+	.about-me{
+    margin-left: 5%;
+    margin-top: 3%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 90%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    text-align: center;
+	}
+	.footer{
+		font-size: 9px;
+		color:    white;
+		font-family: sans-serif;
+	}
 }
