@@ -167,10 +167,15 @@ img.emoji {
 		color:    white;
 		font-family: sans-serif;
 	}
-}
-.test{
-  color: white;
-  text-align: center;
-  font-family: verdana;
-  font-size: 20px
+	.donate {
+    margin-left: 5%;
+    margin-top: 0.5%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 50%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    font-size: 0.01px;
+	}
 }
