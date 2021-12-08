@@ -127,7 +127,28 @@ img.emoji {
             margin: 0 .05em 0 .1em;
             vertical-align: -0.1em;
 }
-
+.second{
+    margin-left: 5%;
+    margin-top: 0.5%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 10%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    font-size: 0.01px;
+}
+.donate{
+    margin-left: 5%;
+    margin-top: 0.5%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 50%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    font-size: 0.01px;
+}
 /*i didnt know about media queries lol */
 @media (orientation: portrait){
 	.about-me{
@@ -141,17 +162,6 @@ img.emoji {
     border-radius: 80px;
     text-align: center;
 	}
-	.second{
-    margin-left: 5%;
-    margin-top: 0.5%;
-    display: grid;
-    place-content: center;
-    width: 90%;
-    height: 100%;
-    background-color: rgba(190, 17, 17, .5);
-    border-radius: 80px;
-    font-size: 0.01px;
-}
 	.footer{
 		font-size: 9px;
 		color:    white;
