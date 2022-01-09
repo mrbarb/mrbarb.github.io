@@ -1,0 +1,200 @@
+html, body {
+width: 100%;
+height: 100%;
+background-image: linear-gradient(100deg, #DE3837, #D2D4D6);
+overflow-x: hidden ;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+  font-size: 50px
+}
+#para1 {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+  font-size: 30px
+}
+#para2 {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px
+}
+#para3 {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px
+}
+#para4 {
+  text-align: center;
+  color:   #cfb53b;
+  font-family: sans-serif;
+  font-size: 20px
+}
+#para5 {
+  text-align: center;
+  color:    #ffa500;
+  font-family: sans-serif;
+  font-size: 20px
+}
+#para6 {
+  text-align: center;
+  color:    #0f0f0f;
+  font-family: sans-serif;
+  font-size: 20px
+}
+#para7 {
+  text-align: center;
+  color:    #C4AF3A;
+  font-family: sans-serif;
+  font-size: 20px
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+  font-size: 25px
+}
+#para8 {
+  text-align: center;
+  color:   white;
+  font-family: sans-serif;
+  font-size: 20px
+}
+#para9 {
+  text-align: center;
+  color:    white;
+  font-family: sans-serif;
+  font-size: 20px
+}
+
+#para10 {
+  text-align: center;
+  color:    white;
+  font-family: sans-serif;
+  font-size: 20px
+}
+.footer {
+  color:    white;
+  font-family: sans-serif;
+  font-size: 10px
+}
+/*prolly smorter doing it this way*/
+#bc{
+ color: #77C277;
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px
+}
+.links{
+	color: white;
+}
+.about-me{
+    margin-left: 5%;
+    margin-top: 3%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 103%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    text-align: center;
+}
+.second{
+    margin-left: 5%;
+    margin-top: 0.5%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 60%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    text-align: center;
+}
+img.emoji {
+            height: 1em;
+            width: 1em;
+            margin: 0 .05em 0 .1em;
+            vertical-align: -0.1em;
+}
+.second{
+    margin-left: 5%;
+    margin-top: 0.5%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 10%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    font-size: 0.01px;
+}
+.donate {
+    margin-left: 5%;
+    margin-top: 0.5%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 50%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    font-size: 0.01px;
+	color: white;
+	text-align: center;
+    font-family: sans-serif;
+    font-size: 20px	
+}
+/*i didnt know about media queries lol */
+@media (orientation: portrait){
+	.about-me{
+    margin-left: 5%;
+    margin-top: 3%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 100%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    text-align: center;
+	}
+	.footer{
+		font-size: 9px;
+		color:    white;
+		font-family: sans-serif;
+	}
+	.donate {
+    margin-left: 5%;
+    margin-top: 0.5%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 50%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    font-size: 0.01px;
+	color: white;
+	text-align: center;
+    font-family: sans-serif;
+    font-size: 20px	
+	}
+	.second{
+    margin-left: 5%;
+    margin-top: 0.5%;
+    display: grid;
+    place-content: center;
+    width: 90%;
+    height: 40%;
+    background-color: rgba(190, 17, 17, .5);
+    border-radius: 80px;
+    font-size: 0.01px;
+	}
+}
