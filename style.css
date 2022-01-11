@@ -133,7 +133,7 @@ img.emoji {
     display: grid;
     place-content: center;
     width: 90%;
-    height: 10%;
+    height: 20%;
     background-color: rgba(190, 17, 17, .5);
     border-radius: 80px;
     font-size: 0.01px;
@@ -192,7 +192,7 @@ img.emoji {
     display: grid;
     place-content: center;
     width: 90%;
-    height: 40%;
+    height: 110%;
     background-color: rgba(190, 17, 17, .5);
     border-radius: 80px;
     font-size: 0.01px;
