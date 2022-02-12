@@ -1,4 +1,6 @@
 #robots.txt very crawl
 
 User-agent: *
-Disallow: 
+Allow: /
+
+Sitemap: https://shruubo.ml/sitemap.xml 
