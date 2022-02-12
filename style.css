@@ -181,8 +181,8 @@ img.emoji {
     background-color: rgba(190, 17, 17, .5);
     border-radius: 80px;
     font-size: 0.01px;
-	color: white;
-	text-align: center;
+	  color: white;
+	  text-align: center;
     font-family: sans-serif;
     font-size: 20px	
 	}
@@ -197,4 +197,19 @@ img.emoji {
     border-radius: 80px;
     font-size: 0.01px;
 	}
+  #para4{
+    font-size: 13px;
+  }
+  #para5{
+    font-size: 11px;
+  }
+  #para6{
+    font-size: 12px;
+  }
+  #para7{
+    font-size: 12px;
+  }
+  #bc{
+    font-size: 12px;
+  }
 }
