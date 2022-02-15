@@ -148,10 +148,25 @@ img.emoji {
     background-color: rgba(190, 17, 17, .5);
     border-radius: 80px;
     font-size: 0.01px;
-	color: white;
-	text-align: center;
+	  color: white;
+	  text-align: center;
     font-family: sans-serif;
     font-size: 20px	
+}
+.projects{
+  margin-left: 5%;
+  margin-top: 3%;
+  display: grid;
+  place-content: center;
+  width: 90%;
+  height: 100%;
+  background-color: rgba(190, 17, 17, .5);
+  border-radius: 80px;
+  text-align: center;
+  color: white;
+	text-align: center;
+  font-family: sans-serif;
+  font-size: 20px	
 }
 /*i didnt know about media queries lol */
 @media (orientation: portrait){
